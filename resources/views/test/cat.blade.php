@@ -1,9 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
 
-<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C</title>
+</head>
+
 <body>
-<h1>Gallery of Chonlasit 6122420017</h1>
-<p>
-Cat <a href="gallery/cat"><img width="300px" height="200" src="{{$cat}}" alt="cat-man"></a>
-</p>
+    <h1>Gallery of Kittisak Sonsing 65122420015</h1>
+    cat<img src="{{$cat}}" alt="black" width="400px" height="auto" margin="10">
 </body>
+
 </html>
